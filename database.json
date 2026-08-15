@@ -1,0 +1,311 @@
+[
+    {
+        "name": "Aadat",
+        "audio_file": "songs\\Aadat.wav",
+        "fingerprint_file": "fingerprints\\Aadat.npy",
+        "hash_count": 201767
+    },
+    {
+        "name": "Aitebar - Vital Signs ｜ Aesthetics اردو",
+        "audio_file": "songs\\Aitebar - Vital Signs ｜ Aesthetics اردو.wav",
+        "fingerprint_file": "fingerprints\\Aitebar - Vital Signs ｜ Aesthetics اردو.npy",
+        "hash_count": 185869
+    },
+    {
+        "name": "Ajob",
+        "audio_file": "songs\\Ajob.wav",
+        "fingerprint_file": "fingerprints\\Ajob.npy",
+        "hash_count": 537673
+    },
+    {
+        "name": "Amar Prithibi ｜ আমার পৃথিবী ｜ Black ｜ Album Amar Prithibi ｜ Official Lyrical Band Song",
+        "audio_file": "songs\\Amar Prithibi ｜ আমার পৃথিবী ｜ Black ｜ Album Amar Prithibi ｜ Official Lyrical Band Song.wav",
+        "fingerprint_file": "fingerprints\\Amar Prithibi ｜ আমার পৃথিবী ｜ Black ｜ Album Amar Prithibi ｜ Official Lyrical Band Song.npy",
+        "hash_count": 291505
+    },
+    {
+        "name": "Amar Sara Deho ｜ আমার সারা দেহ ｜ Zafor Iqbal & Others ｜ Andrew Kishore ｜ Noyoner Alo ｜ Anupam",
+        "audio_file": "songs\\Amar Sara Deho ｜ আমার সারা দেহ ｜ Zafor Iqbal & Others ｜ Andrew Kishore ｜ Noyoner Alo ｜ Anupam.wav",
+        "fingerprint_file": "fingerprints\\Amar Sara Deho ｜ আমার সারা দেহ ｜ Zafor Iqbal & Others ｜ Andrew Kishore ｜ Noyoner Alo ｜ Anupam.npy",
+        "hash_count": 257381
+    },
+    {
+        "name": "Ami Jare Chaire",
+        "audio_file": "songs\\Ami Jare Chaire.wav",
+        "fingerprint_file": "fingerprints\\Ami Jare Chaire.npy",
+        "hash_count": 427886
+    },
+    {
+        "name": "Anmone 2",
+        "audio_file": "songs\\Anmone 2.wav",
+        "fingerprint_file": "fingerprints\\Anmone 2.npy",
+        "hash_count": 497186
+    },
+    {
+        "name": "ARBOVIRUS - HARIYE JAO",
+        "audio_file": "songs\\ARBOVIRUS - HARIYE JAO.wav",
+        "fingerprint_file": "fingerprints\\ARBOVIRUS - HARIYE JAO.npy",
+        "hash_count": 488404
+    },
+    {
+        "name": "Aurthohin - Epitaph (Official Music Video) ｜ Shopnochura ｜",
+        "audio_file": "songs\\Aurthohin - Epitaph (Official Music Video) ｜ Shopnochura ｜.wav",
+        "fingerprint_file": "fingerprints\\Aurthohin - Epitaph (Official Music Video) ｜ Shopnochura ｜.npy",
+        "hash_count": 105883
+    },
+    {
+        "name": "Bayaan - Nahin Milta (Official Video)",
+        "audio_file": "songs\\Bayaan - Nahin Milta (Official Video).wav",
+        "fingerprint_file": "fingerprints\\Bayaan - Nahin Milta (Official Video).npy",
+        "hash_count": 206733
+    },
+    {
+        "name": "Bhalo Lage - Moheener Ghoraguli II ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে (Lyrics)",
+        "audio_file": "songs\\Bhalo Lage - Moheener Ghoraguli II ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে (Lyrics).wav",
+        "fingerprint_file": "fingerprints\\Bhalo Lage - Moheener Ghoraguli II ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে (Lyrics).npy",
+        "hash_count": 341762
+    },
+    {
+        "name": "Boney M. - Rasputin (Sopot Festival 1979)",
+        "audio_file": "songs\\Boney M. - Rasputin (Sopot Festival 1979).wav",
+        "fingerprint_file": "fingerprints\\Boney M. - Rasputin (Sopot Festival 1979).npy",
+        "hash_count": 534037
+    },
+    {
+        "name": "Coke Studio Season 8｜ Tajdar-e-Haram｜ Atif Aslam",
+        "audio_file": "songs\\Coke Studio Season 8｜ Tajdar-e-Haram｜ Atif Aslam.wav",
+        "fingerprint_file": "fingerprints\\Coke Studio Season 8｜ Tajdar-e-Haram｜ Atif Aslam.npy",
+        "hash_count": 676477
+    },
+    {
+        "name": "Dama Dam Mast Qalandar",
+        "audio_file": "songs\\Dama Dam Mast Qalandar.wav",
+        "fingerprint_file": "fingerprints\\Dama Dam Mast Qalandar.npy",
+        "hash_count": 258298
+    },
+    {
+        "name": "December'er Shohorey ｜｜ With Love, Calcutta OST",
+        "audio_file": "songs\\December'er Shohorey ｜｜ With Love, Calcutta OST.wav",
+        "fingerprint_file": "fingerprints\\December'er Shohorey ｜｜ With Love, Calcutta OST.npy",
+        "hash_count": 208708
+    },
+    {
+        "name": "Din Bari Jay",
+        "audio_file": "songs\\Din Bari Jay.wav",
+        "fingerprint_file": "fingerprints\\Din Bari Jay.npy",
+        "hash_count": 337916
+    },
+    {
+        "name": "Doob ｜｜ ডুব ｜｜ Habib Wahid ｜｜ Mousumi ｜｜ Mosharraf Karim ｜｜ Projapoti ｜｜ Bangla Movie Song",
+        "audio_file": "songs\\Doob ｜｜ ডুব ｜｜ Habib Wahid ｜｜ Mousumi ｜｜ Mosharraf Karim ｜｜ Projapoti ｜｜ Bangla Movie Song.wav",
+        "fingerprint_file": "fingerprints\\Doob ｜｜ ডুব ｜｜ Habib Wahid ｜｜ Mousumi ｜｜ Mosharraf Karim ｜｜ Projapoti ｜｜ Bangla Movie Song.npy",
+        "hash_count": 221102
+    },
+    {
+        "name": "Duur ｜ Strings ｜ 2000 ｜ Duur ｜ (Official Video)",
+        "audio_file": "songs\\Duur ｜ Strings ｜ 2000 ｜ Duur ｜ (Official Video).wav",
+        "fingerprint_file": "fingerprints\\Duur ｜ Strings ｜ 2000 ｜ Duur ｜ (Official Video).npy",
+        "hash_count": 537951
+    },
+    {
+        "name": "Eagles - Hotel California (Official Audio)",
+        "audio_file": "songs\\Eagles - Hotel California (Official Audio).wav",
+        "fingerprint_file": "fingerprints\\Eagles - Hotel California (Official Audio).npy",
+        "hash_count": 356012
+    },
+    {
+        "name": "Ei Meghla Dine Ekla ｜ Audio ｜ Hemanta Mukherjee ｜ Gauriprasanna Mazumder",
+        "audio_file": "songs\\Ei Meghla Dine Ekla ｜ Audio ｜ Hemanta Mukherjee ｜ Gauriprasanna Mazumder.wav",
+        "fingerprint_file": "fingerprints\\Ei Meghla Dine Ekla ｜ Audio ｜ Hemanta Mukherjee ｜ Gauriprasanna Mazumder.npy",
+        "hash_count": 124392
+    },
+    {
+        "name": "Ekaki Mon ｜ Balam ｜ একাকি মন ｜ বালাম ｜ TI Antor ｜ Music Video",
+        "audio_file": "songs\\Ekaki Mon ｜ Balam ｜ একাকি মন ｜ বালাম ｜ TI Antor ｜ Music Video.wav",
+        "fingerprint_file": "fingerprints\\Ekaki Mon ｜ Balam ｜ একাকি মন ｜ বালাম ｜ TI Antor ｜ Music Video.npy",
+        "hash_count": 295148
+    },
+    {
+        "name": "Ghumonto Shohore ｜ ঘুমন্ত শহরে ｜ LRB ｜ Ayub Bachchu ｜ ঘুমন্ত শহরে ｜ AB Kitchen",
+        "audio_file": "songs\\Ghumonto Shohore ｜ ঘুমন্ত শহরে ｜ LRB ｜ Ayub Bachchu ｜ ঘুমন্ত শহরে ｜ AB Kitchen.wav",
+        "fingerprint_file": "fingerprints\\Ghumonto Shohore ｜ ঘুমন্ত শহরে ｜ LRB ｜ Ayub Bachchu ｜ ঘুমন্ত শহরে ｜ AB Kitchen.npy",
+        "hash_count": 553077
+    },
+    {
+        "name": "Icche Ghuri ｜ Shironamhin ｜ 25th Anniversary concert",
+        "audio_file": "songs\\Icche Ghuri ｜ Shironamhin ｜ 25th Anniversary concert.wav",
+        "fingerprint_file": "fingerprints\\Icche Ghuri ｜ Shironamhin ｜ 25th Anniversary concert.npy",
+        "hash_count": 355658
+    },
+    {
+        "name": "Je Shohore Ami Nei - Bay of Bengal (Official video)",
+        "audio_file": "songs\\Je Shohore Ami Nei - Bay of Bengal (Official video).wav",
+        "fingerprint_file": "fingerprints\\Je Shohore Ami Nei - Bay of Bengal (Official video).npy",
+        "hash_count": 502660
+    },
+    {
+        "name": "Jekhane Shimanto Tomar ｜ যেখানে সীমান্ত তোমার ｜ Kumar Bishwajit ｜ Evergreen Bangla Song",
+        "audio_file": "songs\\Jekhane Shimanto Tomar ｜ যেখানে সীমান্ত তোমার ｜ Kumar Bishwajit ｜ Evergreen Bangla Song.wav",
+        "fingerprint_file": "fingerprints\\Jekhane Shimanto Tomar ｜ যেখানে সীমান্ত তোমার ｜ Kumar Bishwajit ｜ Evergreen Bangla Song.npy",
+        "hash_count": 222091
+    },
+    {
+        "name": "Jodi Himaloy Hoye (Official Music Video) ｜ Prince Mahmud ft. Khalid",
+        "audio_file": "songs\\Jodi Himaloy Hoye (Official Music Video) ｜ Prince Mahmud ft. Khalid.wav",
+        "fingerprint_file": "fingerprints\\Jodi Himaloy Hoye (Official Music Video) ｜ Prince Mahmud ft. Khalid.npy",
+        "hash_count": 297934
+    },
+    {
+        "name": "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)",
+        "audio_file": "songs\\K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix).wav",
+        "fingerprint_file": "fingerprints\\K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix).npy",
+        "hash_count": 351478
+    },
+    {
+        "name": "Let It Be (Remastered 2009)",
+        "audio_file": "songs\\Let It Be (Remastered 2009).wav",
+        "fingerprint_file": "fingerprints\\Let It Be (Remastered 2009).npy",
+        "hash_count": 232017
+    },
+    {
+        "name": "Mala ｜ Lyrics ｜ Anjan Dutta ｜ Purono Guitar Modern Songs Anjan Dutt ｜ Bangla Gaan",
+        "audio_file": "songs\\Mala ｜ Lyrics ｜ Anjan Dutta ｜ Purono Guitar Modern Songs Anjan Dutt ｜ Bangla Gaan.wav",
+        "fingerprint_file": "fingerprints\\Mala ｜ Lyrics ｜ Anjan Dutta ｜ Purono Guitar Modern Songs Anjan Dutt ｜ Bangla Gaan.npy",
+        "hash_count": 251602
+    },
+    {
+        "name": "Minnale - Vaseegara Official Video ｜ Full HD ｜ Harris Jayaraj ｜ Madhavan ｜ Gautham V Menon",
+        "audio_file": "songs\\Minnale - Vaseegara Official Video ｜ Full HD ｜ Harris Jayaraj ｜ Madhavan ｜ Gautham V Menon.wav",
+        "fingerprint_file": "fingerprints\\Minnale - Vaseegara Official Video ｜ Full HD ｜ Harris Jayaraj ｜ Madhavan ｜ Gautham V Menon.npy",
+        "hash_count": 94176
+    },
+    {
+        "name": "Mon Shudhu Mon Chuyeche - Souls [HQ]",
+        "audio_file": "songs\\Mon Shudhu Mon Chuyeche - Souls [HQ].wav",
+        "fingerprint_file": "fingerprints\\Mon Shudhu Mon Chuyeche - Souls [HQ].npy",
+        "hash_count": 397535
+    },
+    {
+        "name": "Nindiya Re ｜ Kaavish ｜ Season 4 ｜ Coke Studio Pakistan ｜ @RohailHyattMusic",
+        "audio_file": "songs\\Nindiya Re ｜ Kaavish ｜ Season 4 ｜ Coke Studio Pakistan ｜ @RohailHyattMusic.wav",
+        "fingerprint_file": "fingerprints\\Nindiya Re ｜ Kaavish ｜ Season 4 ｜ Coke Studio Pakistan ｜ @RohailHyattMusic.npy",
+        "hash_count": 149625
+    },
+    {
+        "name": "Obocheton By Nemesis ｜ Album Agontuk 2 ｜ Official lyrical Video",
+        "audio_file": "songs\\Obocheton By Nemesis ｜ Album Agontuk 2 ｜ Official lyrical Video.wav",
+        "fingerprint_file": "fingerprints\\Obocheton By Nemesis ｜ Album Agontuk 2 ｜ Official lyrical Video.npy",
+        "hash_count": 479820
+    },
+    {
+        "name": "Ore Nil Doriya ｜ ওরে নীল দরিয়া ｜ Faruk & Kobori ｜ Abdul Jabbar ｜ Shareng Bou ｜ Anupam",
+        "audio_file": "songs\\Ore Nil Doriya ｜ ওরে নীল দরিয়া ｜ Faruk & Kobori ｜ Abdul Jabbar ｜ Shareng Bou ｜ Anupam.wav",
+        "fingerprint_file": "fingerprints\\Ore Nil Doriya ｜ ওরে নীল দরিয়া ｜ Faruk & Kobori ｜ Abdul Jabbar ｜ Shareng Bou ｜ Anupam.npy",
+        "hash_count": 286636
+    },
+    {
+        "name": "Pagla Ghora",
+        "audio_file": "songs\\Pagla Ghora.wav",
+        "fingerprint_file": "fingerprints\\Pagla Ghora.npy",
+        "hash_count": 381612
+    },
+    {
+        "name": "Ranjish Hi Sahi",
+        "audio_file": "songs\\Ranjish Hi Sahi.wav",
+        "fingerprint_file": "fingerprints\\Ranjish Hi Sahi.npy",
+        "hash_count": 408336
+    },
+    {
+        "name": "Shono Go Dakhin Hawa ｜ Lyrical Video ｜ শোনো গো দখিন হাওয়া  ｜ S.D.Burman ｜ Bangla Gaan",
+        "audio_file": "songs\\Shono Go Dakhin Hawa ｜ Lyrical Video ｜ শোনো গো দখিন হাওয়া  ｜ S.D.Burman ｜ Bangla Gaan.wav",
+        "fingerprint_file": "fingerprints\\Shono Go Dakhin Hawa ｜ Lyrical Video ｜ শোনো গো দখিন হাওয়া  ｜ S.D.Burman ｜ Bangla Gaan.npy",
+        "hash_count": 95295
+    },
+    {
+        "name": "Shua Chan Pakhi Lyrics (সোয়া চাঁন পাখি লিরিক্স) - Bari Siddiqui",
+        "audio_file": "songs\\Shua Chan Pakhi Lyrics (সোয়া চাঁন পাখি লিরিক্স) - Bari Siddiqui.wav",
+        "fingerprint_file": "fingerprints\\Shua Chan Pakhi Lyrics (সোয়া চাঁন পাখি লিরিক্স) - Bari Siddiqui.npy",
+        "hash_count": 155548
+    },
+    {
+        "name": "Tumi Ki Shara Dibe ｜ Black ｜ Album Rock 202 ｜ Official lyrical Video",
+        "audio_file": "songs\\Tumi Ki Shara Dibe ｜ Black ｜ Album Rock 202 ｜ Official lyrical Video.wav",
+        "fingerprint_file": "fingerprints\\Tumi Ki Shara Dibe ｜ Black ｜ Album Rock 202 ｜ Official lyrical Video.npy",
+        "hash_count": 464298
+    },
+    {
+        "name": "Utshober Utshahe ｜ উৎসবের উৎসাহে ｜ Artcell ｜ Underground (Band Mixed Album) ｜ Original Track",
+        "audio_file": "songs\\Utshober Utshahe ｜ উৎসবের উৎসাহে ｜ Artcell ｜ Underground (Band Mixed Album) ｜ Original Track.wav",
+        "fingerprint_file": "fingerprints\\Utshober Utshahe ｜ উৎসবের উৎসাহে ｜ Artcell ｜ Underground (Band Mixed Album) ｜ Original Track.npy",
+        "hash_count": 782608
+    },
+    {
+        "name": "Vibe-Bidhatari Ronge Aka(Lyrics Video)",
+        "audio_file": "songs\\Vibe-Bidhatari Ronge Aka(Lyrics Video).wav",
+        "fingerprint_file": "fingerprints\\Vibe-Bidhatari Ronge Aka(Lyrics Video).npy",
+        "hash_count": 428258
+    },
+    {
+        "name": "Warfaze - Purnota",
+        "audio_file": "songs\\Warfaze - Purnota.wav",
+        "fingerprint_file": "fingerprints\\Warfaze - Purnota.npy",
+        "hash_count": 499192
+    },
+    {
+        "name": "Warfaze-Obak Bhalobasha",
+        "audio_file": "songs\\Warfaze-Obak Bhalobasha.wav",
+        "fingerprint_file": "fingerprints\\Warfaze-Obak Bhalobasha.npy",
+        "hash_count": 326672
+    },
+    {
+        "name": "Wish You Were Here",
+        "audio_file": "songs\\Wish You Were Here.wav",
+        "fingerprint_file": "fingerprints\\Wish You Were Here.npy",
+        "hash_count": 157447
+    },
+    {
+        "name": "ya ghali guitara",
+        "audio_file": "songs\\ya ghali guitara.wav",
+        "fingerprint_file": "fingerprints\\ya ghali guitara.npy",
+        "hash_count": 565404
+    },
+    {
+        "name": "কবিতা তুমি স্বপ্নচারিনী হয়ে ｜ Kobita ｜ James ｜ Lyrics",
+        "audio_file": "songs\\কবিতা তুমি স্বপ্নচারিনী হয়ে ｜ Kobita ｜ James ｜ Lyrics.wav",
+        "fingerprint_file": "fingerprints\\কবিতা তুমি স্বপ্নচারিনী হয়ে ｜ Kobita ｜ James ｜ Lyrics.npy",
+        "hash_count": 618762
+    },
+    {
+        "name": "কি জ্বালা দিয়ে গেলা মোরে ｜ Ki Jala ｜ Hridoy Khan ｜ Bangla Folk Song",
+        "audio_file": "songs\\কি জ্বালা দিয়ে গেলা মোরে ｜ Ki Jala ｜ Hridoy Khan ｜ Bangla Folk Song.wav",
+        "fingerprint_file": "fingerprints\\কি জ্বালা দিয়ে গেলা মোরে ｜ Ki Jala ｜ Hridoy Khan ｜ Bangla Folk Song.npy",
+        "hash_count": 89583
+    },
+    {
+        "name": "꧁ Your Midnight Melody： Tomar Jonno Nilche Tara by Arnob (তোমার জন্য নীলচে তারা) I Official Audio ꧂",
+        "audio_file": "songs\\꧁ Your Midnight Melody： Tomar Jonno Nilche Tara by Arnob (তোমার জন্য নীলচে তারা) I Official Audio ꧂.wav",
+        "fingerprint_file": "fingerprints\\꧁ Your Midnight Melody： Tomar Jonno Nilche Tara by Arnob (তোমার জন্য নীলচে তারা) I Official Audio ꧂.npy",
+        "hash_count": 240099
+    },
+    {
+        "id": 49,
+        "name": "Icons_Oporanho",
+        "audio_file": "songs\\Icons_Oporanho.wav",
+        "fingerprint_file": "fingerprints\\Icons_Oporanho.npy",
+        "hash_count": 517487
+    },
+    {
+        "id": 50,
+        "name": "Meghdol # Esho Amar Shohore # Aluminium Er Dana # Official Video",
+        "audio_file": "songs\\Meghdol # Esho Amar Shohore # Aluminium Er Dana # Official Video.wav",
+        "fingerprint_file": "fingerprints\\Meghdol # Esho Amar Shohore # Aluminium Er Dana # Official Video.npy",
+        "hash_count": 103009
+    },
+    {
+        "id": 51,
+        "name": "Zara Zara # Rehnaa hai terre Dil Mein #R.Madhavan #Dia Mirza # Bombay Jayashri",
+        "audio_file": "songs\\Zara Zara # Rehnaa hai terre Dil Mein #R.Madhavan #Dia Mirza # Bombay Jayashri.wav",
+        "fingerprint_file": "fingerprints\\Zara Zara # Rehnaa hai terre Dil Mein #R.Madhavan #Dia Mirza # Bombay Jayashri.npy",
+        "hash_count": 141349
+    }
+]
