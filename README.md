@@ -4,6 +4,8 @@ This project implements a lightweight song-recognition system based on digital s
 **Recognition Approach**
 The final approach is a landmark-style audio fingerprinting pipeline. The same feature-extraction function is used for reference songs and for the query, ensuring that both sides are represented in the same coordinate system.
 REFERENCE DATABASE
+
+
 Audio file -> Mono/resample -> STFT -> dB spectrogram -> local peaks
           -> peak-pair fingerprints -> quantisation -> .npy + database.json
 
